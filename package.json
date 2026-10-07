@@ -1,0 +1,11 @@
+{
+  "name": "renewal-risk-radar",
+  "version": "1.0.0",
+  "description": "Contract expiration intelligence system that flags annual deals ending in 30/60/90 days cross-referenced with unresolved support tickets and NPS drop-offs.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "author": "Gideon Bawa <bawagideon98@gmail.com>",
+  "license": "MIT"
+}
